@@ -824,7 +824,7 @@ DOUBLE PRECISION;
 /***                              Descriptions                              ***/
 /******************************************************************************/
 
-COMMAND ON DOMAIN DM_SYSPERSONTYPE IS
+COMMENT ON DOMAIN DM_SYSPERSONTYPE IS
 '0 = NOT SET
 1 = CUSTOMER
 2 = SUPPLIER
