@@ -1,5 +1,4 @@
 
---Extract Domain From Firebird 2.5 For PostgreSQL 12.
 --Some query has modified for PostgreSQL like :
 --1. BLOB changed to BYTEA.
 /******************************************************************************/
